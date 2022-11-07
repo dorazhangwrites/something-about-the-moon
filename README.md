@@ -11,7 +11,7 @@ the pattern, he can then wake up and watch the moon.
 
 CONTROL
 
-<img width="1258" alt="pg2_demo2" src="https://user-images.githubusercontent.com/111608674/200206697-ca4d0c45-2188-49c9-99cc-97b28b0721cb.png">
+<img width="500" alt="pg2_demo2" src="https://user-images.githubusercontent.com/111608674/200206697-ca4d0c45-2188-49c9-99cc-97b28b0721cb.png">
 
 Use the provided AR marker to move around the screen to complete the puzzle on the top left corner!
 
